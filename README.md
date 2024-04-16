@@ -18,3 +18,7 @@
 5.效果
 
 ![](MiStep/log/imgs/1713233880652.jpg)
+
+【声明】
+
+该项目是基于https://github.com/ruizhengyu/mimotions的魔改版本，仅供娱乐。
