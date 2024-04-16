@@ -21,4 +21,4 @@
 
 【声明】
 
-该项目是基于https://github.com/ruizhengyu/mimotions的魔改版本，仅供娱乐。
+该项目是基于 https://github.com/ruizhengyu/mimotions 的魔改版本，仅供娱乐。
