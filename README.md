@@ -17,4 +17,4 @@
 
 5.效果
 
-![](MiStep\log\imgs\1713233880652.jpg)
+![](MiStep/log/imgs/1713233880652.jpg)
