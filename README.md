@@ -1,4 +1,5 @@
-快速开始
+**快速开始**
+
 1.拉取代码
 
 `git clone https://github.com/Skyblueeeee/Gradio-MiStep.git`
@@ -19,6 +20,6 @@
 
 ![](MiStep/log/imgs/1713233880652.jpg)
 
-【声明】
+**【声明】**
 
 该项目是基于 https://github.com/ruizhengyu/mimotions 的魔改版本，仅供娱乐。
